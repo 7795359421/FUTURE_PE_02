@@ -128,4 +128,32 @@ FUTURE_PE_02
     ├── script1.png
     ├── script2.png
     ├── script3.png
-    └── script4.png
+    ├── script4.png
+    └── script5.png
+## Screenshots
+
+### Prompt Used
+
+![Prompt Screenshot](screenshots/prompt.png)
+
+### Generated UGC Scripts
+
+#### Script 1
+
+![Script 1](screenshots/script1.png)
+
+#### Script 2
+
+![Script 2](screenshots/script2.png)
+
+#### Script 3
+
+![Script 3](screenshots/script3.png)
+
+#### Script 4
+
+![Script 4](screenshots/script4.png)
+
+#### Script 5
+
+![Script 5](screenshots/script5.png)
