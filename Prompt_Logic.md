@@ -1,167 +1,155 @@
-# AI Prompt Logic
+# Prompt Engineering System
 
-## 1. UGC Advertisement Script Prompt
+## Project
 
-This prompt was used to generate the 5 UGC advertisement scripts for Divine Cuisine.
+AI Content Marketing using UGC Ads
 
-### Prompt
+## Business
 
-Act as an expert UGC advertising copywriter.
+**Business Name:** Divine Cuisine  
+**Business Type:** Home-based cloud kitchen  
+**Location:** Mangalore, Karnataka  
+**Tagline:** Homely Food, Divine Bite
 
-Create short-form UGC advertisements for Divine Cuisine,
-a home-based cloud kitchen located in Mangalore, Karnataka.
+## Objective
 
-Business:
-Divine Cuisine
+Create authentic UGC-style advertising content for Divine Cuisine that feels like a genuine customer recommendation rather than a traditional advertisement.
 
-Tagline:
-Homely Food, Divine Bite
+The content should be suitable for Instagram Reels, Instagram Ads and YouTube Shorts.
 
-Product:
+---
+
+# Master Prompt
+
+Act as an expert UGC advertising copywriter and AI content marketing strategist.
+
+I am creating a UGC advertising campaign for a real local business.
+
+## BUSINESS DETAILS
+
+Business Name: Divine Cuisine
+
+Business Type: Home-based cloud kitchen
+
+Location: Mangalore, Karnataka
+
+Tagline: Homely Food, Divine Bite
+
+## PRODUCT
+
 Homemade-style lunch and dinner meals.
 
-Target audience:
-College students, working professionals, office employees
-and people looking for convenient homemade-style food.
+## TARGET AUDIENCE
 
-Tone:
-Natural, friendly, authentic, conversational and relatable.
+- College students
+- Working professionals
+- Office employees
+- People living away from home
+- People who don't have enough time or energy to cook
 
-Create 5 different UGC ad scripts.
+## CUSTOMER PROBLEM
 
-Each script should contain:
-1. Scroll-stopping hook
-2. Relatable problem
-3. Personal experience
-4. Product solution
-5. Key benefits
-6. Strong call-to-action
+Busy people often want a proper, comforting meal but don't have the time, energy or motivation to cook after college or work.
 
-Each script should be suitable for a 20–30 second
-Instagram Reel or YouTube Short.
+## ADVERTISING OBJECTIVE
 
-Avoid sounding like a traditional advertisement.
-Make the scripts feel like a real customer is recommending
-the product to a friend.
+Create authentic UGC-style advertising content that feels like a genuine customer recommendation rather than a traditional advertisement.
 
+## PLATFORMS
 
-## 2. Hook Generation Prompt
+- Instagram Reels
+- Instagram Ads
+- YouTube Shorts
 
-This prompt was used to create scroll-stopping hooks.
+## TONE
 
-### Prompt
+Natural, authentic, friendly, conversational, relatable and non-salesy.
 
-Generate 15 scroll-stopping UGC hooks for Divine Cuisine.
+## CONTENT REQUIREMENTS
 
-Target audience:
-College students and working professionals.
+1. Create 10 different scroll-stopping hooks.
+2. Create 5 different UGC-style ad scripts.
+3. Follow the framework:
 
-Product:
-Homemade-style lunch and dinner meals.
+**Hook → Problem → Personal Experience → Solution → Benefits → CTA**
 
-Create hooks based on:
-- Problems
-- Curiosity
-- POV
-- Emotional connection
-- Convenience
+4. Create 10 CTAs.
+5. Create 5 social-media captions.
+6. Adapt the strongest script for Instagram Reels, Instagram Ads and YouTube Shorts.
+7. Explain how the content changes for each platform.
+8. Make the prompt reusable for other local businesses.
 
-Keep every hook short and suitable for the first
-2–3 seconds of a social media video.
+## OUTPUT FORMAT
 
+### Section 1 — Business & Customer Problem
 
-## 3. Social Media Caption Prompt
+### Section 2 — 10 UGC Hooks
 
-This prompt was used to create social-media captions.
+### Section 3 — 5 UGC Ad Scripts
 
-### Prompt
+### Section 4 — 10 CTAs
 
-Create 5 social media captions for Divine Cuisine.
+### Section 5 — 5 Social Media Captions
 
-The captions should be suitable for Instagram and Facebook.
+### Section 6 — Platform Adaptation
 
-Include:
-- Strong opening
-- Short product benefit
-- Friendly tone
-- Mangalore location
-- Clear call-to-action
+### Section 7 — Reusable Prompt Variables
 
-Avoid excessive hashtags and overly promotional language.
+---
 
+# Reusable Prompt Variables
 
-## 4. CTA Generation Prompt
+The following variables can be replaced to use this system for another business:
 
-This prompt was used to create different calls-to-action.
+- `[BUSINESS NAME]`
+- `[BUSINESS TYPE]`
+- `[LOCATION]`
+- `[TAGLINE]`
+- `[PRODUCT / SERVICE]`
+- `[TARGET AUDIENCE]`
+- `[CUSTOMER PROBLEM]`
+- `[CUSTOMER DESIRE]`
+- `[KEY BENEFITS]`
+- `[ADVERTISING OBJECTIVE]`
+- `[PLATFORMS]`
+- `[TONE]`
+- `[CTA]`
 
-### Prompt
+## Prompt Workflow
 
-Create 10 different call-to-action lines for Divine Cuisine.
+Business Information  
+↓  
+Product / Service  
+↓  
+Target Audience  
+↓  
+Customer Problem  
+↓  
+Advertising Objective  
+↓  
+Tone  
+↓  
+AI Prompt  
+↓  
+Hooks  
+↓  
+UGC Scripts  
+↓  
+CTAs  
+↓  
+Captions  
+↓  
+Platform Adaptation  
+↓  
+Final Content Pack
 
-The business is a home-based cloud kitchen in Mangalore.
+## Prompting Principles
 
-Target audience:
-College students, working professionals and people
-looking for convenient homemade-style food.
-
-Create CTAs that are:
-- Short
-- Friendly
-- Conversational
-- Action-oriented
-
-Include different CTA types such as:
-- Order Now
-- Message Us
-- WhatsApp Enquiry
-- Try Today
-- Contact Us
-
-
-## 5. Video Idea Prompt
-
-This prompt was used to create short-form UGC video concepts.
-
-### Prompt
-
-Create 5 short-form UGC video ideas for Divine Cuisine.
-
-Product:
-Homemade-style lunch and dinner meals.
-
-Target audience:
-College students and working professionals.
-
-Each video idea should include:
-1. Scene
-2. Dialogue or voiceover
-3. On-screen text
-4. Product presentation
-5. Call-to-action
-
-Keep the concepts suitable for 20–30 second
-Instagram Reels and YouTube Shorts.
-
-Make the videos feel natural and relatable rather
-than like traditional advertisements.
-
-
-## Prompting Strategy
-
-The content generation process followed this structure:
-
-Business Information
-↓
-Product Information
-↓
-Target Audience
-↓
-Tone and Style
-↓
-Content Requirements
-↓
-AI Generation
-↓
-Review and Selection
-↓
-Final UGC Content
+- Keep the content authentic.
+- Avoid exaggerated claims.
+- Avoid overly promotional language.
+- Use realistic customer situations.
+- Make the content conversational.
+- Focus on the customer's problem and desired outcome.
+- Adapt the presentation according to the platform.
+- Keep the prompt reusable for different businesses.
